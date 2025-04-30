@@ -1,0 +1,31 @@
+{
+  "COMFORT.MenuTitle": "Available Furniture",
+  "COMFORT.Place": "Place",
+  "COMFORT.OpenMenu": "Furniture Menu",
+  "COMFORT.TotalComfort": "Total comfort in Bastion",
+  "COMFORT.NoFurniture": "No furniture available for this character.",
+  "COMFORT.ButtonTitle": "Place Furniture",
+  "COMFORT.BadScene": "Only available in Bastion",
+  "COMFORT.InvalidAnchor": "Could not calculate a snap point.",
+  "COMFORT.TileCreated": "Tile created!",
+  "COMFORT.TileError": "Error creating tile",
+  "COMFORT.ComfortLabel": "Comfort",
+  "COMFORT.FurnitureLabel": "Furniture",
+  "COMFORT.ComfortValue": "Comfort Value",
+  "COMFORT.ComfortGMBadge": "GM",
+  "COMFORT.NoCharacter": "No character is associated with your user.",
+  "COMFORT.SectionTitle": "Comfort System",
+  "COMFORT.Settings": {
+    "ConsumeOnPlace": {
+      "Name": "Delete furniture on placement",
+      "Hint": "If enabled, furniture is removed from inventory when placed on the scene."
+    },
+    "SceneID": {
+      "Name": "Bastion Scene ID",
+      "Hint": "Set the ID of the scene used for comfort calculation."
+    }
+  },
+  "COMFORT.Notification": {
+    "Placed": "\"{name}\" has been placed in the Bastion."
+  }
+}

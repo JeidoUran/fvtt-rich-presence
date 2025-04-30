@@ -1,0 +1,31 @@
+{
+  "COMFORT.MenuTitle": "Meubles disponibles",
+  "COMFORT.Place": "Placer",
+  "COMFORT.OpenMenu": "Menu des meubles",
+  "COMFORT.TotalComfort": "Confort total dans le Bastion",
+  "COMFORT.NoFurniture": "Aucun meuble disponible pour ce personnage.",
+  "COMFORT.ButtonTitle": "Placer des meubles",
+  "COMFORT.BadScene": "Uniquement disponible au Bastion",
+  "COMFORT.InvalidAnchor": "Impossible de calculer un point d'ancrage.",
+  "COMFORT.TileCreated": "Tile créé !",
+  "COMFORT.TileError": "Erreur à la création du tile",
+  "COMFORT.ComfortLabel": "Confort",
+  "COMFORT.FurnitureLabel": "Meuble",
+  "COMFORT.ComfortValue": "Valeur de confort",
+  "COMFORT.ComfortGMBadge": "MJ",
+  "COMFORT.NoCharacter": "Aucun personnage n'est associé à votre utilisateur.",
+  "COMFORT.SectionTitle": "Comfort System",
+  "COMFORT.Settings": {
+    "ConsumeOnPlace": {
+      "Name": "Supprimer le meuble lors du placement",
+      "Hint": "Si activé, le meuble sera retiré de l’inventaire lors de son placement sur la scène."
+    },
+    "SceneID": {
+        "Name": "ID de la scène du Bastion",
+        "Hint": "Définissez l'ID de la scène utilisée pour la calcul du confort."
+      }
+  },
+  "COMFORT.Notification": {
+    "Placed": "\"{name}\" a été placé dans le Bastion."
+  }
+}
