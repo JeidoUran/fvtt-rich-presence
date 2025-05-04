@@ -24,7 +24,7 @@
         "type": "system",
         "compatibility": {
           "minimum": "4.2.2",
-          "maximum": "5.9.99"
+          "maximum": "4.9.99"
         }
       }
     ],
