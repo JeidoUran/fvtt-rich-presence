@@ -1,7 +1,7 @@
 {
   "id": "fvtt-rich-presence",
   "title": "Foundry VTT Rich Presence",
-  "description": "Enables Rich Presence on the Foundry server. To be used alongside the FVTT Client.",
+  "description": "Enables Rich Presence on the Foundry server. To be used alongside the FVTT Desktop Client.",
 
   "version": "1.0.0",
   "authors": [
@@ -12,7 +12,8 @@
   "socket": false,
   "scripts": [],
   "esmodules": [
-      "scripts/main.js"
+      "scripts/main.js",
+      "scripts/settings.js"
   ],
   "styles": [],
   "templates": [],
