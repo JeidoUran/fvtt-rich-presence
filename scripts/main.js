@@ -49,7 +49,7 @@ Hooks.once("ready", () => {
           sceneId: game.scenes.active?.id
         };
         ws.send(JSON.stringify(payload));
-      }, 20000);
+      }, 5000);
     };
 
     ws.onerror = (err) => console.warn("[RP] WebSocket error :", err);
