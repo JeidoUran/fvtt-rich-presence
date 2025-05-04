@@ -35,7 +35,6 @@ Hooks.once("ready", () => {
         const classItem = actor?.items?.find(item => item.type === "class" && item._id === classId);
         const payload = {
           userName: game.user.name,
-          scene: game.scenes.active?.name ?? "???",
           inCombat: game.combat?.started ?? false,
           actorName: actor?.name ?? null,
           hp: actor?.system?.attributes?.hp,
