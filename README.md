@@ -10,7 +10,7 @@ A Foundry VTT module that enables Discord Rich Presence on a Foundry world. It s
 
 **Note: In order to use this module, you also need to be using my fork of [FVTT Desktop Client](https://github.com/JeidoUran/fvtt-player-client), as it contains the necessary code to send the data exposed by this module to Discord.**
 
-The module has been tested on D&D5e and PF2e. I do not know how well or if it would work at all on other game systems.
+The module has been tested on the D&D5e and PF2e game systems. I do not know how well or if it would work at all on other systems.
 
 ![image](https://github.com/user-attachments/assets/8dcc3a99-926f-4d5c-a13d-a17068c5328a)
 ![image](https://github.com/user-attachments/assets/7353a476-6791-4950-932b-672d29e3302e)
