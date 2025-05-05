@@ -3,13 +3,18 @@
 ![Static Badge](https://img.shields.io/badge/Foundry%20Verified-13.442-lightgreen)
 ![Static Badge](https://img.shields.io/badge/D&D5e%20Minimum-4.3.9-orange)
 ![Static Badge](https://img.shields.io/badge/D&D5e%20Verified-5.0.1-lightgreen)
+![Static Badge](https://img.shields.io/badge/PF2e%20Verified-6.12.1-lightgreen)
 ![Static Badge](https://img.shields.io/badge/License-MIT-yellow)
 
-A Foundry VTT module that enables Discord Rich Presence on a Foundry world running the D&D5e system. It sends some information about the user such as class, level, or whether they're currently in a battle or not.
+A Foundry VTT module that enables Discord Rich Presence on a Foundry world. It sends some information about the user such as class, level, or whether they're currently in a battle or not.
 
 **Note: In order to use this module, you also need to be using my fork of [FVTT Desktop Client](https://github.com/JeidoUran/fvtt-player-client), as it contains the necessary code to send the data exposed by this module to Discord.**
 
+The module has been tested on D&D5e and PF2e. I do not know how well or if it would work at all on other game systems.
+
 ![image](https://github.com/user-attachments/assets/8dcc3a99-926f-4d5c-a13d-a17068c5328a)
+![image](https://github.com/user-attachments/assets/7353a476-6791-4950-932b-672d29e3302e)
+
 
 ## Installation
 - Open Foundry VTT, then navigate to the **Add-on Modules** tab.
