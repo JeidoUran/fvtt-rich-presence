@@ -18,15 +18,6 @@
   "styles": [],
   "relationships": {
     "systems": [
-      {
-        "id": "dnd5e",
-        "type": "system",
-        "compatibility": {
-          "minimum": "4.2.2",
-          "verified": "5.0.1",
-          "maximum": "5.9.99"
-        }
-      }
     ],
     
     "requires": [
