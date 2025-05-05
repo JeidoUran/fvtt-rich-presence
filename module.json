@@ -17,12 +17,8 @@
   ],
   "styles": [],
   "relationships": {
-    "systems": [
-    ],
-    
-    "requires": [
-
-    ]
+    "systems": [],
+    "requires": []
   },
   "languages": [
     {
