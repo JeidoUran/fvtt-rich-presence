@@ -32,9 +32,11 @@ The module has been tested on the D&D5e and PF2e game systems. I do not know how
 ![image](https://github.com/user-attachments/assets/aad94072-6e39-4138-88a0-28fbc687d02c)
 - **Every player logging in to this World needs to follow these steps. Rich Presence is turned off on both the Client and Module by default.**
 
-## Acknowledgments
+## Acknowledgments and attributions
 
 Special thanks to [cswendrowski](https://github.com/cswendrowski), as this module is a spiritual successor to [FoundryVTT Discord Rich Presence](https://github.com/cswendrowski/FoundryVTT-Discord-Rich-Presence?tab=readme-ov-file). While the execution and final results are vastly different, the original idea comes from seeing their module.
+
+Rich Presence icons designed by [Freepik](http://www.freepik.com/).
 
 ## Disclaimer
 
