@@ -25,7 +25,7 @@ A Foundry VTT module that enables Discord Rich Presence on a Foundry World. It s
 
 ## Acknowledgments
 
-This module is a spiritual successor to [FoundryVTT Discord Rich Presence](https://github.com/cswendrowski/FoundryVTT-Discord-Rich-Presence?tab=readme-ov-file). While the execution and final results are vastly different, the original idea comes from seeing this module, so many thanks to [cswendrowski](https://github.com/cswendrowski).
+Special thanks to [cswendrowski](https://github.com/cswendrowski), as this module is a spiritual successor to [FoundryVTT Discord Rich Presence](https://github.com/cswendrowski/FoundryVTT-Discord-Rich-Presence?tab=readme-ov-file). While the execution and final results are vastly different, the original idea comes from seeing their module.
 
 ## Disclaimer
 
