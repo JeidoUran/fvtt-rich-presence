@@ -16,7 +16,6 @@
       "scripts/settings.js"
   ],
   "styles": [],
-  "templates": [],
   "relationships": {
     "systems": [
       {
@@ -24,7 +23,8 @@
         "type": "system",
         "compatibility": {
           "minimum": "4.2.2",
-          "maximum": "4.9.99"
+          "verified": "5.0.1",
+          "maximum": "5.9.99"
         }
       }
     ],
@@ -47,7 +47,7 @@
   ],
   "compatibility": {
     "minimum": "12.331",
-    "verified": "13.340",
+    "verified": "13.342",
     "maximum": "13"
   }
 }
