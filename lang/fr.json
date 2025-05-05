@@ -3,5 +3,6 @@
   "RICHPRESENCE.Settings.ClientDownload.Hint": "Ce module nécessite le client FVTT Desktop pour afficher votre statut sur Discord. Cliquez sur le bouton pour accéder à la page de téléchargement",
   "RICHPRESENCE.Settings.ClientDownload.Label": "Télécharger le Client",
   "RICHPRESENCE.Settings.Enable.Name": "Activer Discord Rich Presence",
-  "RICHPRESENCE.Settings.Enable.Hint": "Active l'intégration avec Discord sur ce client"
+  "RICHPRESENCE.Settings.Enable.Hint": "Active l'intégration avec Discord sur ce client",
+  "RICHPRESENCE.Notifications.Connected": "FVTT Rich Presence: Connecté au Client Rich Presence"
 }

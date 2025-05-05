@@ -29,6 +29,7 @@ Hooks.once("ready", () => {
 
   ws.onopen = () => {
     console.log("[RP] Connected to RichPresence Client");
+    ui.notifications.notify(game.i18n.localize("RICHPRESENCE.Notifications.Connected"));
     window._richPresenceInterval = setInterval(() => {
         const actor = game.actors.get(game.user.character?.id);
         const classId = actor?.system?.details?.originalClass;
