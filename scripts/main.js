@@ -50,7 +50,7 @@ Hooks.once("ready", () => {
             } else if (sys === "pf2e") {
               lvl = actor.system?.details?.level?.value;
             }
-            return `${ci.name}${lvl != null ? ` Level ${lvl}` : ""}`;
+            return `${ci.name}${lvl != null ? ` - Level ${lvl}` : ""}`;
           })
           .join(" / ")
       : null;
