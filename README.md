@@ -12,7 +12,7 @@ A Foundry VTT module that enables Discord Rich Presence on a Foundry World. It s
      ```
 ## How to Use
 - Launch the [FVTT Desktop Client](https://github.com/JeidoUran/fvtt-player-client).
-- Open the **App Config** and make sure **Enable Discord Rich Presence** is checked.
+- Open the **Client Configuration** and make sure **Enable Discord Rich Presence** is checked.
 ![image](https://github.com/user-attachments/assets/877fd3c7-f212-4b1e-8d6e-e5bfce7a2ce5)
 - Log in to your Foundry VTT World.
 - In **Configure Settings**, navigate to **Foundry VTT Rich Presence** and make sure **Enable Discord Rich Presence** is also checked. 
