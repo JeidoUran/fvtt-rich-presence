@@ -1,5 +1,5 @@
 # Foundry VTT Rich Presence
-![Static Badge](https://img.shields.io/badge/Minimum-12-orange)
+![Static Badge](https://img.shields.io/badge/Minimum-12.331-orange)
 ![Static Badge](https://img.shields.io/badge/Verified-13.442-lightgreen)
 ![Static Badge](https://img.shields.io/badge/License-MIT-yellow)
 
