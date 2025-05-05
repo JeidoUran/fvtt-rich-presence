@@ -15,6 +15,7 @@ The module has been tested on the D&D5e and PF2e game systems. I do not know how
 ![image](https://github.com/user-attachments/assets/8dcc3a99-926f-4d5c-a13d-a17068c5328a)
 ![image](https://github.com/user-attachments/assets/7353a476-6791-4950-932b-672d29e3302e)
 
+If you're a GM, the module will hide some of the information displayed to prevent spoilers.
 
 ## Installation
 - Open Foundry VTT, then navigate to the **Add-on Modules** tab.
