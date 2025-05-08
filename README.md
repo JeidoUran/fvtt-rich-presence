@@ -27,7 +27,7 @@ If you're a GM, the module will hide some of the information displayed to preven
 ## How to Use
 - Launch the [FVTT Desktop Client](https://github.com/JeidoUran/fvtt-player-client).
 - Open the **Client Configuration** and make sure **Enable Discord Rich Presence** is checked.
-![image](https://github.com/user-attachments/assets/877fd3c7-f212-4b1e-8d6e-e5bfce7a2ce5)
+![image](https://github.com/user-attachments/assets/c6c7b2e8-d4d9-4d72-9ea7-8242e350f948)
 - Log in to your Foundry VTT World.
 - In **Configure Settings**, navigate to **Foundry VTT Rich Presence** and make sure **Enable Discord Rich Presence** is also checked. 
 ![image](https://github.com/user-attachments/assets/aad94072-6e39-4138-88a0-28fbc687d02c)
